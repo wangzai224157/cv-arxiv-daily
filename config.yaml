@@ -34,5 +34,5 @@ keywords:
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "llm":
+        filters: ["llm","pre-train","tune"]
