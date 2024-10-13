@@ -35,4 +35,4 @@ keywords:
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
     "llm":
-        filters: ["llm","pre-train","tune"]
+        filters: ["llm","pre-train","tune", "image"]
